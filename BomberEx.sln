@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1300
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BomberEx", "BomberEx\BomberEx.csproj", "{5C438AD4-E8C7-4ADA-84F9-22CA455D963E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C438AD4-E8C7-4ADA-84F9-22CA455D963E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C438AD4-E8C7-4ADA-84F9-22CA455D963E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C438AD4-E8C7-4ADA-84F9-22CA455D963E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C438AD4-E8C7-4ADA-84F9-22CA455D963E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A59C473E-3E95-48E5-A8A7-7F79016E49E3}
+	EndGlobalSection
+EndGlobal
